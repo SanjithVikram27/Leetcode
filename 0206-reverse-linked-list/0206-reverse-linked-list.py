@@ -8,15 +8,14 @@ class Solution:
         cur = head
         prev = None
 
-        while cur:
+        while cur:                 #(or) while cur != None
             temp = cur.next
             cur.next = prev
             prev = cur
             cur = temp
-        return prev
+        return prev           
+                               
 
-
-        return prev
 
 
         
