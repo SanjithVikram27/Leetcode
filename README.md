@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SanjithVikram27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SanjithVikram27/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
