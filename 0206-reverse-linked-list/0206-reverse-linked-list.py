@@ -8,7 +8,7 @@ class Solution:
         cur = head
         prev = None
 
-        while cur != None:                          #(or) while cur != None
+        while cur != None:                          #(or) while cur:
             temp = cur.next
             cur.next = prev
             prev = cur
