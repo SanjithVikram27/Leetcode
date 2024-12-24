@@ -8,7 +8,7 @@ class Solution:
         dummy = ListNode(0,head)
         first = second = dummy
 
-        for _ in range(n+1):
+        for i in range(n+1):
             first = first.next
 
         while first:
