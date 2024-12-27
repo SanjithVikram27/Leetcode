@@ -7,10 +7,7 @@ class Solution:
         s_dict=Counter(s)
         t_dict=Counter(t)
 
-        if s_dict == t_dict:
-            return True
-        else:
-            return False
+        return s_dict == t_dict
 
 
         
