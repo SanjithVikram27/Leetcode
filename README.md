@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjithVikram27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/SanjithVikram27/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjithVikram27/Leetcode/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SanjithVikram27/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjithVikram27/Leetcode/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [3379-score-of-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SanjithVikram27/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Prefix Sum
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjithVikram27/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
