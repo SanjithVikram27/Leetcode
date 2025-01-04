@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjithVikram27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/SanjithVikram27/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjithVikram27/Leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SanjithVikram27/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjithVikram27/Leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -105,5 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
