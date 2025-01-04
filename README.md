@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SanjithVikram27/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/SanjithVikram27/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1954-replace-all-digits-with-characters](https://github.com/SanjithVikram27/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [3379-score-of-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
 |  |
