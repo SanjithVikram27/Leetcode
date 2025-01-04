@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SanjithVikram27/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/SanjithVikram27/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3379-score-of-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SanjithVikram27/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjithVikram27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjithVikram27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1894-merge-strings-alternately](https://github.com/SanjithVikram27/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
