@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/SanjithVikram27/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3379-score-of-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjithVikram27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithVikram27/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/SanjithVikram27/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Queue
 |  |
 | ------- |
