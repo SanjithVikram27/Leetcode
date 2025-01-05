@@ -3,8 +3,9 @@ class Solution:
         i = len(s)-1
         length = 0
 
-        while s[i]==" ":
+        while s[i]== " ":
             i-=1
+
         while i>=0 and s[i]!= " ":
             length+=1
             i-=1
