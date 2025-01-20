@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/SanjithVikram27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/SanjithVikram27/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Hash Table
 |  |
