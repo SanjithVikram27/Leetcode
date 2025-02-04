@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanjithVikram27/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/SanjithVikram27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/SanjithVikram27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SanjithVikram27/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SanjithVikram27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SanjithVikram27/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SanjithVikram27/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SanjithVikram27/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
