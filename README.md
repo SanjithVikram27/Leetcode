@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SanjithVikram27/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SanjithVikram27/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SanjithVikram27/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SanjithVikram27/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SanjithVikram27/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SanjithVikram27/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SanjithVikram27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SanjithVikram27/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/SanjithVikram27/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SanjithVikram27/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SanjithVikram27/Leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjithVikram27/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/SanjithVikram27/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SanjithVikram27/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
