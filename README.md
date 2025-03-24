@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SanjithVikram27/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SanjithVikram27/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0898-transpose-matrix](https://github.com/SanjithVikram27/Leetcode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/SanjithVikram27/Leetcode/tree/master/0898-transpose-matrix) |
 ## Design
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjithVikram27/Leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/SanjithVikram27/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
