@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SanjithVikram27/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SanjithVikram27/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SanjithVikram27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SanjithVikram27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/SanjithVikram27/Leetcode/tree/master/0231-power-of-two) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SanjithVikram27/Leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SanjithVikram27/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SanjithVikram27/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SanjithVikram27/Leetcode/tree/master/0389-find-the-difference) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SanjithVikram27/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/SanjithVikram27/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SanjithVikram27/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/SanjithVikram27/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
