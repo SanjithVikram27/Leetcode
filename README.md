@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SanjithVikram27/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SanjithVikram27/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SanjithVikram27/Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/SanjithVikram27/Leetcode/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/SanjithVikram27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SanjithVikram27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SanjithVikram27/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjithVikram27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/SanjithVikram27/Leetcode/tree/master/0091-decode-ways) |
 | [0808-number-of-matching-subsequences](https://github.com/SanjithVikram27/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
 |  |
